@@ -1,3 +1,4 @@
+
 /*
     TemplateView
 
@@ -69,6 +70,7 @@ var TemplateView = {
     container (jQuery object) refernece to the container into which
                             the view should append the merged template    
 */
+
 function createTemplateView(config) {
     var view = Object.create(TemplateView);
 
